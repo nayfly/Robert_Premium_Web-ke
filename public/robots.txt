@@ -1,0 +1,49 @@
+# Robots.txt for robertsoftware.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://robertsoftware.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# Block access to admin areas and sensitive files
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /api/
+Disallow: /.well-known/
+Disallow: /private/
+
+# Allow access to important resources
+Allow: /images/
+Allow: /favicon.ico
+Allow: /manifest.json
+Allow: /.well-known/security.txt
+
+# Block common bot patterns
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Additional sitemap references
+Sitemap: https://robertsoftware.com/sitemap-images.xml
+Sitemap: https://robertsoftware.com/sitemap-news.xml

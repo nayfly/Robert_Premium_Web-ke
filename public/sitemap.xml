@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage ES -->
+  <url>
+    <loc>https://robertsoftware.com/es</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://robertsoftware.com/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://robertsoftware.com/es" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://robertsoftware.com/es" />
+    <image:image>
+      <image:loc>https://robertsoftware.com/images/robert-logo.png</image:loc>
+      <image:title>Robert Software Logo</image:title>
+      <image:caption>Experto en IA, Automatización y Ciberseguridad</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Homepage EN -->
+  <url>
+    <loc>https://robertsoftware.com/en</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://robertsoftware.com/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://robertsoftware.com/es" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://robertsoftware.com/es" />
+  </url>
+  
+  <!-- Client Panel ES -->
+  <url>
+    <loc>https://robertsoftware.com/es/panel</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://robertsoftware.com/en/panel" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://robertsoftware.com/es/panel" />
+  </url>
+  
+  <!-- Client Panel EN -->
+  <url>
+    <loc>https://robertsoftware.com/en/panel</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://robertsoftware.com/en/panel" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://robertsoftware.com/es/panel" />
+  </url>
+  
+  <!-- Legal Pages ES -->
+  <url>
+    <loc>https://robertsoftware.com/legal/privacidad</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertsoftware.com/legal/terminos</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertsoftware.com/legal/cookies</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertsoftware.com/legal/aviso-legal</loc>
+    <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+</urlset>

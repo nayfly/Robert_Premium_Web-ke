@@ -1,0 +1,19 @@
+Contact: mailto:security@robertsoftware.com
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://robertsoftware.com/pgp-key.txt
+Preferred-Languages: es, en
+Canonical: https://robertsoftware.com/.well-known/security.txt
+Policy: https://robertsoftware.com/security-policy
+Hiring: https://robertsoftware.com/careers
+
+# Security Policy
+# We take security seriously. If you discover a security vulnerability,
+# please report it to us privately via security@robertsoftware.com
+# 
+# Please include:
+# - Description of the vulnerability
+# - Steps to reproduce
+# - Potential impact
+# - Your contact information
+#
+# We will respond within 24 hours and work with you to resolve the issue.

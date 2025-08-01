@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "cases": "Cases",
+    "products": "Products",
+    "clientPanel": "Client Panel",
+    "freeConsultation": "Free Consultation"
+  },
+  "hero": {
+    "badge": "Strategic Technology Expert",
+    "title": "I transform your business with",
+    "titleHighlight": "Artificial Intelligence",
+    "titleEnd": "and Automation",
+    "subtitle": "For CEOs and founders seeking <strong>real competitive advantage</strong>. I don't sell websites, I create <strong>systems that multiply results</strong>.",
+    "cta1": "Book Strategic Consultation",
+    "cta2": "View Success Cases",
+    "feature1": {
+      "title": "Advanced Automation",
+      "description": "Processes that work 24/7 without human intervention"
+    },
+    "feature2": {
+      "title": "Strategic AI",
+      "description": "Intelligent agents that make decisions for you"
+    },
+    "feature3": {
+      "title": "Cybersecurity",
+      "description": "Audits that protect your most valuable asset"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "titleHighlight": "Premium",
+    "subtitle": "Exclusive solutions for companies that understand technology is investment, not expense.",
+    "aiConsulting": {
+      "title": "Strategic AI Consulting",
+      "description": "I identify real AI opportunities in your business and design the roadmap to implement them.",
+      "price": "From €2,500",
+      "features": ["Complete process audit", "Personalized roadmap", "Projected ROI", "90-day follow-up"]
+    },
+    "cybersecurity": {
+      "title": "Cybersecurity Audit",
+      "description": "Comprehensive vulnerability analysis and action plan to protect your company.",
+      "price": "From €1,800",
+      "features": ["Complete pentesting", "Executive report", "Remediation plan", "Team training"]
+    },
+    "automation": {
+      "title": "Process Automation",
+      "description": "I eliminate repetitive tasks and create workflows that function without human supervision.",
+      "price": "From €3,200",
+      "features": ["Process analysis", "Custom development", "Complete integration", "6-month support"]
+    },
+    "growthPartner": {
+      "title": "Growth Partner",
+      "description": "I become your external CTO to scale your technology at the pace of your growth.",
+      "price": "€4,500/month",
+      "features": ["Technology strategy", "Development supervision", "Architectural decisions", "Weekly meetings"]
+    },
+    "aiAgents": {
+      "title": "Custom AI Agents",
+      "description": "I develop intelligent agents that automate complex decisions in your business.",
+      "price": "From €5,000",
+      "features": ["Custom agent", "Specific training", "Integration with your systems", "Continuous optimization"]
+    },
+    "moreInfo": "More Information"
+  },
+  "problems": {
+    "title": "Does this sound",
+    "titleHighlight": "familiar",
+    "subtitle": "These are the real problems that slow down the growth of companies like yours.",
+    "problem1": {
+      "title": "Manual processes that consume time",
+      "description": "Your team loses hours on repetitive tasks that could be automated."
+    },
+    "problem2": {
+      "title": "Uncontrolled operational costs",
+      "description": "Expenses that grow faster than revenue due to lack of efficiency."
+    },
+    "problem3": {
+      "title": "Hidden security vulnerabilities",
+      "description": "Your company is exposed to risks you don't even know about."
+    },
+    "problem4": {
+      "title": "Overloaded and demotivated teams",
+      "description": "Valuable talent lost on tasks that don't add strategic value."
+    },
+    "problem5": {
+      "title": "Competition that advances faster",
+      "description": "While you hesitate, others are already implementing AI and automation."
+    },
+    "solution": {
+      "title": "The good news:",
+      "titleHighlight": "All have solutions",
+      "description": "With the right strategy and adequate tools, you can turn these problems into competitive advantages."
+    }
+  },
+  "cases": {
+    "title": "Success",
+    "titleHighlight": "Cases",
+    "subtitle": "Real results from companies that have transformed their business with strategic technology.",
+    "case1": {
+      "company": "B2B E-commerce",
+      "sector": "Distribution",
+      "challenge": "Manual management of 500+ daily orders",
+      "solution": "Automation system with predictive AI",
+      "results": [
+        "85% reduction in processing time",
+        "€120K annual savings in operational costs",
+        "0% errors in automated orders"
+      ],
+      "tags": ["Automation", "Predictive AI", "ERP Integration"]
+    },
+    "case2": {
+      "company": "European Fintech",
+      "sector": "Financial Services",
+      "challenge": "Regulatory compliance and security",
+      "solution": "Complete audit + monitoring system",
+      "results": [
+        "100% PCI DSS compliance",
+        "ISO 27001 certification in 6 months",
+        "0 security incidents since implementation"
+      ],
+      "tags": ["Cybersecurity", "Compliance", "24/7 Monitoring"]
+    },
+    "case3": {
+      "company": "Legal Consultancy",
+      "sector": "Professional Services",
+      "challenge": "Contract analysis consumes 60% of time",
+      "solution": "Specialized AI agent for legal review",
+      "results": [
+        "70% reduction in analysis time",
+        "95% accuracy in critical clause detection",
+        "€200K increase in annual billing"
+      ],
+      "tags": ["Specialized AI", "NLP", "Legal Automation"]
+    },
+    "challenge": "Challenge:",
+    "solution": "Solution:",
+    "results": "Results:",
+    "nextCase": {
+      "title": "Want to be the",
+      "titleHighlight": "next success case",
+      "description": "These results are not coincidence. They are the product of strategy, technology and impeccable execution."
+    }
+  },
+  "digitalProduct": {
+    "title": "Digital",
+    "titleHighlight": "Product",
+    "subtitle": "Professional tools you can use immediately to optimize your business.",
+    "template": {
+      "title": "Smart Budget Template",
+      "description": "Complete system to create professional budgets that close more sales",
+      "includes": "✨ What's included:",
+      "features": [
+        "Professional Excel/Google Sheets template",
+        "Automatic margin calculator",
+        "PDF proposal generator",
+        "Updatable price database",
+        "Proposal tracking system",
+        "Step-by-step implementation guide"
+      ],
+      "results": "🎯 Expected results:",
+      "expectedResults": [
+        "50% less time creating budgets",
+        "More precise and profitable margins",
+        "More professional proposals",
+        "Higher sales closing rate",
+        "Total control over your pricing",
+        "Scalability for your team"
+      ],
+      "price": "€97",
+      "originalPrice": "€297",
+      "discount": "67% OFF",
+      "launchPrice": "Launch price",
+      "immediateAccess": "Immediate access",
+      "guarantee": "💡 30-day guarantee: If you don't improve your budgeting process, I'll refund your money.",
+      "downloadNow": "Download Now",
+      "viewDemo": "View Demo"
+    }
+  },
+  "cta": {
+    "title": "Ready to",
+    "titleHighlight": "transform",
+    "titleEnd": "your business?",
+    "subtitle": "Book a free 45-minute strategic consultation. We'll analyze your current situation and design a specific action plan for your company.",
+    "features": ["Free process analysis", "Personalized roadmap", "Projected ROI"],
+    "limitedOffer": "Limited offer",
+    "limitedText": "I only accept 5 free consultations per month to guarantee analysis quality. 2 spots remaining this month.",
+    "bookConsultation": "Book My Free Consultation",
+    "responseTime": "📞 Response in less than 24 hours • No commitment • 100% confidential"
+  },
+  "footer": {
+    "description": "Strategic expert in AI, automation and cybersecurity. I transform businesses with high-value technology.",
+    "services": "Services",
+    "aiConsulting": "AI Consulting",
+    "cybersecurity": "Cybersecurity",
+    "automation": "Automation",
+    "growthPartner": "Growth Partner",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "legalNotice": "Legal Notice",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with 🧠 and cutting-edge technology"
+  }
+}

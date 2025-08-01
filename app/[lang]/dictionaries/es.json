@@ -1,0 +1,270 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "cases": "Casos",
+    "products": "Productos",
+    "clientPanel": "Panel Cliente",
+    "freeConsultation": "Consulta Gratuita"
+  },
+  "hero": {
+    "badge": "Growth Partner Tecnológico",
+    "title": "Multiplico el valor de tu empresa con",
+    "titleHighlight": "IA y Automatización",
+    "titleEnd": "Estratégica",
+    "subtitle": "Para CEOs que buscan <strong>resultados reales</strong>, no promesas vacías. Transformo procesos, reduzco costes y <strong>garantizo ROI medible en 90 días</strong>.",
+    "cta1": "Consulta Estratégica Gratuita",
+    "cta2": "Ver Casos de Éxito",
+    "feature1": {
+      "title": "ROI Medible",
+      "description": "Resultados documentados desde el primer mes"
+    },
+    "feature2": {
+      "title": "Implementación Rápida",
+      "description": "Soluciones funcionando en 2-4 semanas"
+    },
+    "feature3": {
+      "title": "Soporte Premium",
+      "description": "Acceso directo durante todo el proyecto"
+    }
+  },
+  "services": {
+    "title": "Servicios que",
+    "titleHighlight": "Multiplican Resultados",
+    "subtitle": "No vendo horas de consultoría. Vendo resultados medibles con ROI documentado. Cada servicio está diseñado para generar un retorno real y verificable de tu inversión.",
+    "aiConsulting": {
+      "title": "Estrategia IA + Implementación",
+      "subtitle": "De 0 a IA productiva en 30 días",
+      "description": "Identifico, diseño e implemento soluciones IA que generan resultados desde el primer mes.",
+      "price": "Desde €4,500",
+      "originalPrice": "Consultar",
+      "roi": "ROI típico: 200-400%",
+      "savings": "Ahorro promedio: €50K-150K/año",
+      "features": [
+        "Auditoría completa de procesos (valor €2K)",
+        "Estrategia IA personalizada con roadmap",
+        "Implementación supervisada paso a paso",
+        "2-3 casos de uso IA implementados",
+        "Formación del equipo incluida",
+        "Soporte premium 3 meses",
+        "Métricas de ROI documentadas"
+      ]
+    },
+    "cybersecurity": {
+      "title": "Auditoría Ciberseguridad 360°",
+      "subtitle": "Protección total en 2 semanas",
+      "description": "Análisis exhaustivo + implementación de protocolos que blindan tu empresa contra amenazas.",
+      "price": "Desde €2,800",
+      "originalPrice": "Consultar",
+      "roi": "ROI: Prevención de pérdidas",
+      "savings": "Evita costes de €100K-2M",
+      "features": [
+        "Pentesting completo de infraestructura",
+        "Análisis de vulnerabilidades críticas",
+        "Plan de remediación priorizado",
+        "Implementación de protocolos básicos",
+        "Preparación para certificaciones",
+        "Formación en ciberseguridad para equipo",
+        "Informe ejecutivo detallado"
+      ]
+    },
+    "automation": {
+      "title": "Automatización de Procesos",
+      "subtitle": "Elimina el 60-80% del trabajo manual",
+      "description": "Automatizo tus procesos críticos para que tu equipo se enfoque en lo que realmente importa.",
+      "price": "Desde €3,200",
+      "originalPrice": "Personalizable",
+      "roi": "ROI típico: 250-350%",
+      "savings": "Ahorro promedio: €40K-100K/año",
+      "features": [
+        "Mapeo completo de procesos actuales",
+        "Identificación de oportunidades clave",
+        "Desarrollo de 2-4 flujos automatizados",
+        "Integración con sistemas existentes",
+        "Dashboard de métricas básico",
+        "Optimización durante 3 meses",
+        "Documentación completa"
+      ]
+    },
+    "growthPartner": {
+      "title": "Growth Partner Tecnológico",
+      "subtitle": "Tu CTO externo de confianza",
+      "description": "Me convierto en tu brazo derecho tecnológico para escalar sin límites.",
+      "price": "Desde €4,500/mes",
+      "originalPrice": "A consultar",
+      "roi": "ROI típico: 300-500%",
+      "savings": "Vs CTO interno: €100K-200K/año",
+      "features": [
+        "CTO externo dedicado 15h/semana",
+        "Estrategia tecnológica trimestral",
+        "Supervisión de desarrollos críticos",
+        "Decisiones arquitecturales clave",
+        "Gestión de equipos técnicos",
+        "Roadmap tecnológico actualizado",
+        "Acceso directo por WhatsApp"
+      ]
+    },
+    "aiAgents": {
+      "title": "Agentes IA Personalizados",
+      "subtitle": "IA que trabaja 24/7 por ti",
+      "description": "Desarrollo agentes inteligentes que automatizan decisiones complejas y mejoran la experiencia.",
+      "price": "Desde €5,500",
+      "originalPrice": "Personalizable",
+      "roi": "ROI típico: 300-450%",
+      "savings": "Ahorro promedio: €60K-120K/año",
+      "features": [
+        "Análisis de casos de uso específicos",
+        "Desarrollo de 1-2 agentes IA",
+        "Entrenamiento con datos de tu empresa",
+        "Integración con 1-2 sistemas clave",
+        "Dashboard de métricas básico",
+        "Optimización durante 3 meses",
+        "Documentación técnica completa"
+      ]
+    },
+    "moreInfo": "Consulta Estratégica Gratuita"
+  },
+  "problems": {
+    "title": "¿Te suena",
+    "titleHighlight": "familiar",
+    "subtitle": "Estos son los problemas reales que frenan el crecimiento de empresas como la tuya.",
+    "problem1": {
+      "title": "Procesos manuales que consumen tiempo",
+      "description": "Tu equipo pierde horas en tareas repetitivas que podrían automatizarse."
+    },
+    "problem2": {
+      "title": "Costes operativos descontrolados",
+      "description": "Gastos que crecen más rápido que los ingresos por falta de eficiencia."
+    },
+    "problem3": {
+      "title": "Vulnerabilidades de seguridad ocultas",
+      "description": "Tu empresa está expuesta a riesgos que ni siquiera conoces."
+    },
+    "problem4": {
+      "title": "Equipos sobrecargados y desmotivados",
+      "description": "Talento valioso perdido en tareas que no aportan valor estratégico."
+    },
+    "problem5": {
+      "title": "Competencia que avanza más rápido",
+      "description": "Mientras dudas, otros ya están implementando IA y automatización."
+    },
+    "solution": {
+      "title": "La buena noticia:",
+      "titleHighlight": "Todos tienen solución",
+      "description": "Con la estrategia correcta y las herramientas adecuadas, puedes convertir estos problemas en ventajas competitivas."
+    }
+  },
+  "cases": {
+    "title": "Casos de",
+    "titleHighlight": "Éxito Verificables",
+    "subtitle": "Resultados reales de empresas reales, con métricas documentadas. Cada caso incluye datos verificables del ROI obtenido y contacto del cliente para referencias.",
+    "case1": {
+      "company": "TechFlow Solutions",
+      "sector": "SaaS B2B",
+      "challenge": "Procesos de ventas manuales saturados - procesaban manualmente 200+ leads/semana",
+      "solution": "Sistema IA de Automatización de Ventas con agente de calificación y seguimiento automatizado",
+      "results": [
+        "75% reducción en tiempo procesamiento leads",
+        "280% ROI en 6 meses (€45K invertidos → €125K ahorrados)",
+        "€85K ahorro anual en costes operativos",
+        "4x más leads procesados sin contratar personal"
+      ],
+      "tags": ["Automatización IA", "Optimización Ventas", "CRM Integration", "Lead Scoring"]
+    },
+    "case2": {
+      "company": "FinanceCore",
+      "sector": "Fintech",
+      "challenge": "18 vulnerabilidades críticas detectadas por reguladores - riesgo multa €800K",
+      "solution": "Auditoría Completa de Ciberseguridad con implementación de protocolos y monitoreo",
+      "results": [
+        "100% vulnerabilidades críticas resueltas",
+        "ROI: €800K en multas evitadas (inversión €12K)",
+        "Preparación ISO 27001 en 4 meses",
+        "0 incidentes de seguridad en 12 meses"
+      ],
+      "tags": ["Ciberseguridad", "Compliance Financiero", "ISO 27001", "Auditoría"]
+    },
+    "case3": {
+      "company": "LegalTech Pro",
+      "sector": "LegalTech",
+      "challenge": "Análisis de contratos consume 60% del tiempo facturable de abogados senior",
+      "solution": "Agente IA Especializado en Revisión Legal entrenado con jurisprudencia española",
+      "results": [
+        "70% reducción en tiempo análisis contratos",
+        "320% ROI en 8 meses (€18K invertidos → €58K incremento)",
+        "€95K incremento facturación anual",
+        "5x más contratos procesados sin contratar abogados"
+      ],
+      "tags": ["IA Especializada", "LegalTech", "NLP", "Automatización Legal"]
+    },
+    "challenge": "Desafío:",
+    "solution": "Solución:",
+    "results": "Resultados:",
+    "nextCase": {
+      "title": "¿Tu empresa será el próximo",
+      "titleHighlight": "caso de éxito",
+      "description": "Estos resultados no son casualidad. Son el producto de estrategia, tecnología y ejecución impecable. Reserva una consulta estratégica gratuita y descubre cómo podemos transformar tu negocio."
+    }
+  },
+  "digitalProduct": {
+    "title": "Producto",
+    "titleHighlight": "Digital",
+    "subtitle": "Herramientas profesionales que puedes usar inmediatamente para optimizar tu negocio.",
+    "template": {
+      "title": "Plantilla de Presupuestos Inteligente",
+      "description": "Sistema completo para crear presupuestos profesionales que cierran más ventas",
+      "includes": "✨ Qué incluye:",
+      "features": [
+        "Plantilla Excel/Google Sheets profesional",
+        "Calculadora automática de márgenes",
+        "Generador de propuestas en PDF",
+        "Base de datos de precios actualizable",
+        "Sistema de seguimiento de propuestas",
+        "Guía de implementación paso a paso"
+      ],
+      "results": "🎯 Resultados esperados:",
+      "expectedResults": [
+        "50% menos tiempo creando presupuestos",
+        "Márgenes más precisos y rentables",
+        "Propuestas más profesionales",
+        "Mayor tasa de cierre de ventas",
+        "Control total sobre tu pricing",
+        "Escalabilidad para tu equipo"
+      ],
+      "price": "€97",
+      "originalPrice": "€297",
+      "discount": "67% OFF",
+      "launchPrice": "Precio de lanzamiento",
+      "immediateAccess": "Acceso inmediato",
+      "guarantee": "💡 Garantía 30 días: Si no mejoras tu proceso de presupuestación, te devuelvo el dinero.",
+      "downloadNow": "Descargar Ahora",
+      "viewDemo": "Ver Demo"
+    }
+  },
+  "cta": {
+    "title": "¿Listo para",
+    "titleHighlight": "transformar",
+    "titleEnd": "tu negocio?",
+    "subtitle": "Reserva una consulta estratégica gratuita de 45 minutos. Analizaremos tu situación actual y diseñaremos un plan de acción específico para tu empresa.",
+    "features": ["Análisis gratuito de procesos", "Roadmap personalizado", "ROI proyectado"],
+    "limitedOffer": "Oferta limitada",
+    "limitedText": "Solo acepto 5 consultas gratuitas por mes para garantizar la calidad del análisis. Quedan 2 plazas disponibles este mes.",
+    "bookConsultation": "Reservar Mi Consulta Gratuita",
+    "responseTime": "📞 Respuesta en menos de 24 horas • Sin compromiso • 100% confidencial"
+  },
+  "footer": {
+    "description": "Experto estratégico en IA, automatización y ciberseguridad. Transformo negocios con tecnología de alto valor.",
+    "services": "Servicios",
+    "aiConsulting": "Consultoría IA",
+    "cybersecurity": "Ciberseguridad",
+    "automation": "Automatización",
+    "growthPartner": "Growth Partner",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies",
+    "legalNotice": "Aviso Legal",
+    "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con 🧠 y tecnología de vanguardia"
+  }
+}
